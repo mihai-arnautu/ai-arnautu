@@ -74,4 +74,4 @@ These are documented opportunities, not completed features or published guarante
 - [Presentation commit history](https://github.com/mihai-arnautu/ai-arnautu/commits/main/)
 - [Repository activity](https://github.com/mihai-arnautu/ai-arnautu/activity)
 
-The source-history table records earlier implementation work. This repository's own history records changes to the presentation, screenshots and technical notes from November 2026 onward. Detailed Insights graphs may depend on the GitHub plan while the repository is private.
+The source-history table records earlier implementation work. This repository's own history records changes to the presentation, screenshots and technical notes from November 2026 onward. The [commit activity chart](https://github.com/mihai-arnautu/ai-arnautu/graphs/commit-activity) provides GitHub's view of those presentation commits.

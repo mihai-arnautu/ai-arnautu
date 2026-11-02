@@ -14,8 +14,6 @@
 
 A self-hosted AI environment branded **ARN**, combining Open WebUI, Ollama and local compute with search, observability and scheduled maintenance. This case study covers how the application and its supporting infrastructure fit together, including the operational work beyond the browser interface.
 
-> This presentation repository remains private. Public release requires the owner's explicit instruction.
-
 ## At a glance
 
 | Area | Implementation |
@@ -113,7 +111,7 @@ This image was captured without signing in. It shows the public entry point; pri
 | Later maintenance | Network/storage and GPU compatibility work; refreshed model inventory |
 | November 2026 | Current platform inspection and this consolidated technical case study |
 
-The [full timeline](docs/history-and-validation.md#a-deployment-assembled-over-time) references real source revisions. The [portfolio commit history](https://github.com/mihai-arnautu/ai-arnautu/commits/main/) records documentation updates from November onward. Optional Insights graphs may depend on GitHub plan and repository visibility.
+The [full timeline](docs/history-and-validation.md#a-deployment-assembled-over-time) references real source revisions. The [portfolio commit history](https://github.com/mihai-arnautu/ai-arnautu/commits/main/) records documentation updates from November onward. Explore the [repository activity](https://github.com/mihai-arnautu/ai-arnautu/activity) and [commit activity chart](https://github.com/mihai-arnautu/ai-arnautu/graphs/commit-activity) for the actual history of this presentation.
 
 ## Verification and scope
 
